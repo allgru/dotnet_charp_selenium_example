@@ -18,3 +18,4 @@ D:\projekte\csharp\app\bin\Debug\net9.0\selenium-manager\windows\selenium-manage
 D:\projekte\csharp\app\bin\Debug\net9.0\WebDriver.dll
 D:\projekte\csharp\app\obj\Debug\net9.0\app.csproj.AssemblyReference.cache
 D:\projekte\csharp\app\obj\Debug\net9.0\app.csproj.Up2Date
+D:\projekte\csharp\app\obj\Debug\net9.0\app.sourcelink.json
